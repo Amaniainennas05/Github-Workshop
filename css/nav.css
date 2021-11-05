@@ -1,0 +1,22 @@
+
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: white;
+    align-items: center;
+
+}
+
+.nav-items{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: #575757;
+}
+
